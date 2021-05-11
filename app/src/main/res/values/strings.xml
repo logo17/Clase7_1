@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Clase7</string>
+    <string name="product_name">Nombre</string>
+    <string name="product_quantity">Cantidad</string>
+    <string name="save_button">Guardar</string>
+</resources>
